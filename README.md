@@ -12,3 +12,5 @@ how to publish kafka messages
 
 
 ./kafka-console-producer.sh --broker-list localhost:9092 --topic test
+
+http://localhost:9081/publish/hello
